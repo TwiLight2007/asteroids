@@ -1,3 +1,5 @@
+alert("This is a simple game I made with help from a tutorial.\nThis is the version 1.0 and I'll probably improve it later (well, hopefully).\nAnyways, enjoy!\nUse W, A, S and D to move. Space bar to fire. Don't let the asteroids get you (only on desktop :))")
+
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
 //ctx is canva context
